@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Teaching Document"
+  short_description: "Synchronize code edits with learning docs"
+  default_prompt: "Use $code-teaching-document when editing code so learning documentation stays synchronized."
